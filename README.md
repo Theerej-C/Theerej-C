@@ -57,11 +57,10 @@ I'm a **Software developer** at [Intellect Design arena](https://www.intellectde
 
 If you'd like to collaborate on a project 🤝, discuss a topic 💬, or just say hello 👋, feel free to reach out to me through:
 
-* 📧 Email: [your email address]
-* 📱 Phone: [your phone number]
-* 📲 LinkedIn: [your LinkedIn profile]
-* 📊 GitHub: [your GitHub profile]
-* 📚 Twitter: [your Twitter handle]
+* 📧 Email: theerej@gmail.com
+* 📱 Phone: +918056615595
+* 📲 LinkedIn: https://www.linkedin.com/in/theerej-c/
+* 📊 DailyDev: https://app.daily.dev/theerej
 
 ### 🤝 **Let's Connect** 🌟
 
