@@ -1,18 +1,5 @@
 ## 🌈💻 Hi there 👋
 
-<!--
-**Theerej-C/Theerej-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 # 🌟🎉 **Hello, I'm Theerej! 🤩** 🤓
 
 I'm a **Tech Enthusiast** 🤓💻 with a passion for **Computer Science** 🤔💡. I love exploring new technologies 🚀, learning new programming languages 📚, and building innovative projects 🛠️.
@@ -20,6 +7,13 @@ I'm a **Tech Enthusiast** 🤓💻 with a passion for **Computer Science** 🤔�
 ## 📚📝 **About Me** 📊
 
 I'm a **Software developer** at Intellect Design arena 📝💻. I'm excited to share my knowledge and experience with the world through open-source projects 🌟 and collaborations 🤝.
+
+- 🔭 I’m currently working on Django and next js project for devlopers which is collaborative where repo link is [repo](https://github.com/Theerej-C/Personal-Webpage.git)
+- 🌱 I’m currently learning Machine Learning and Quantum computing
+- 👯 I’m looking to collaborate on project with django and next js [repo](https://github.com/Theerej-C/Personal-Webpage.git)
+- 💬 Ask me about My interests
+- 📫 How to reach me: ...
+- ⚡ Fun fact: I am researcher who hide in developer coat 👉😁😁
 
 ### 🤔💭 **My Interests** 🤓
 
