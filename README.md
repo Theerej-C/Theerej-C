@@ -6,7 +6,7 @@ I'm a **Tech Enthusiast** 🤓💻 with a passion for **Computer Science** 🤔�
 
 ## 📚📝 **About Me** 📊
 
-I'm a **Software developer** at Intellect Design arena 📝💻. I'm excited to share my knowledge and experience with the world through open-source projects 🌟 and collaborations 🤝.
+I'm a **Software developer** at [Intellect Design arena](https://www.intellectdesign.com/) 📝💻. I'm excited to share my knowledge and experience with the world through open-source projects 🌟 and collaborations 🤝.
 
 - 🔭 I’m currently working on Django and next js project for devlopers which is collaborative where repo link is [repo](https://github.com/Theerej-C/Personal-Webpage.git)
 - 🌱 I’m currently learning Machine Learning and Quantum computing
